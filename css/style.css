@@ -20,7 +20,7 @@
             position: fixed;
             width: 100%;
             height: 100%;
-            background: url('/img/bg/1.jpg') no-repeat center center/cover;
+            background: url('/Parallax-Website/img/bg/1.jpg') no-repeat center center/cover;
             z-index: -10;
         }
 
@@ -85,7 +85,7 @@
         /* BG TWO */
 
         .bgTwo {
-            background: url('/img/bg/2.jpg');
+            background: url('/Parallax-Website/img/bg/2.jpg');
             background-attachment: fixed;
             width: 100vw;
             height: 70vh;
@@ -107,7 +107,7 @@
         /* BG Three */
 
         .bgThree {
-            background: url('/img/bg/3.jpg');
+            background: url('/Parallax-Website/img/bg/3.jpg');
             background-attachment: fixed;
             width: 100vw;
             height: 70vh;
@@ -129,7 +129,7 @@
         /* BG Four */
 
         .bgFour {
-            background: url('/img/bg/4.jpg');
+            background: url('/Parallax-Website/img/bg/4.jpg');
             background-attachment: fixed;
             width: 100vw;
             height: 70vh;
